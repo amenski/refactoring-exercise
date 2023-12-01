@@ -1,8 +1,6 @@
 package com.checkr.interviews;
 
 import java.util.*;
-import com.opencsv.CSVReader;
-import java.io.FileReader;
 import java.io.IOException;
 
 public class FundingRaised {
